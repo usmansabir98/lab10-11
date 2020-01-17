@@ -1,0 +1,8 @@
+E:\Lab10-11\Lab10-11\bin\Debug\Lab10-11.exe
+E:\Lab10-11\Lab10-11\bin\Debug\Lab10-11.pdb
+E:\Lab10-11\Lab10-11\obj\Debug\Lab10-11.csprojAssemblyReference.cache
+E:\Lab10-11\Lab10-11\obj\Debug\Lab10_11.Form1.resources
+E:\Lab10-11\Lab10-11\obj\Debug\Lab10_11.Properties.Resources.resources
+E:\Lab10-11\Lab10-11\obj\Debug\Lab10-11.csproj.GenerateResource.cache
+E:\Lab10-11\Lab10-11\obj\Debug\Lab10-11.exe
+E:\Lab10-11\Lab10-11\obj\Debug\Lab10-11.pdb
